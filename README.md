@@ -3,4 +3,4 @@ Bu projemizde Servo Motor kullanarak Raspberry Pi'ye bağlanan kameranın açıs
 
 https://iskenderuzuner.com/raspberry-pi-servo-motor-ile-kamera-yonlendirme/
 
-<img src="https://iskenderuzuner.com/wp-content/uploads/2020/12/web4.gif"></img>
+![alt text](https://iskenderuzuner.com/wp-content/uploads/2020/12/web4.gif)
