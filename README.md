@@ -1,6 +1,4 @@
 # servoCameraKontrol
 Bu projemizde Servo Motor kullanarak Raspberry Pi'ye bağlanan kameranın açısını değiştirerek Web Arayüz kısmından uzaktan kontrol edebileceğiz.
 
-https://iskenderuzuner.com/raspberry-pi-servo-motor-ile-kamera-yonlendirme/
-
-![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/3DTest.png)
+![Test Image 8](https://github.com/iskenderuzuner/servoCameraKontrol/blob/main/web4.gif?raw=true)
